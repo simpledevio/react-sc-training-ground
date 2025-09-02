@@ -1,4 +1,4 @@
-# React 19 Training Ground
+# React 19 + styled-components Training Ground
 
 ## Download
 
